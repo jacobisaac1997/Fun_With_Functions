@@ -39,10 +39,10 @@ Initialized empty Git repository in E:/Eclipse G/Fun_With_Functions_Project/.git
 E:\Eclipse G\Fun_With_Functions_Project>git add .
 
 5. git config our user name and email.
-E:\Eclipse G\Fun_With_Functions_Project>git config user.name "Jacob Isaac"
+E:\Eclipse G\Fun_With_Functions_Project>*git config user.name "Jacob Isaac"*
 
-E:\Eclipse G\Fun_With_Functions_Project>git config user.email "isaacj@student.sw
-osu.edu"
+E:\Eclipse G\Fun_With_Functions_Project>*git config user.email "isaacj@student.sw
+osu.edu"*
 
 6. Start a browser of choice
 7. Go to Github "github.com"
