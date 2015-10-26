@@ -59,11 +59,11 @@ git push -u origin master
 So go back to the command prompt, and do the first line, after enter do the second.
 
 //The first line does fine
-E:\Eclipse G\Fun_With_Functions_Project>git remote add origin https://github.com
-/jacobisaac1997/Fun_With_Functions.git
+E:\Eclipse G\Fun_With_Functions_Project>*git remote add origin https://github.com
+/jacobisaac1997/Fun_With_Functions.git*
 
 //The second line doesn't like it.
-E:\Eclipse G\Fun_With_Functions_Project>git push -u origin master
+E:\Eclipse G\Fun_With_Functions_Project>*git push -u origin master*
 error: src refspec master does not match any.
 error: failed to push some refs to 'https://github.com/jacobisaac1997/Fun_With_F
 unctions.git'
@@ -106,7 +106,7 @@ To push the current branch and set the remote as upstream, use
 E:\Eclipse G\Fun_With_Functions_Project>
 
 //Pushing the master branch to github successfully
-E:\Eclipse G\Fun_With_Functions_Project>git push --set-upstream origin master
+E:\Eclipse G\Fun_With_Functions_Project>*git push --set-upstream origin master*
 Username for 'https://github.com': jacobisaac1997
 Password for 'https://jacobisaac1997@github.com':
 Counting objects: 8, done.
